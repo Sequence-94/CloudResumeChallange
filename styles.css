@@ -21,8 +21,7 @@ hr{
 }
 .right{
     text-align: right;
-    display: inline-flexbox;
-    margin-left: 1277px;
+    display: block;
     font-weight: normal;
 }
 .ContactLinks{
