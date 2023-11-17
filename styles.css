@@ -1,0 +1,54 @@
+h1{
+    font-size: 4rem;
+    text-align: center;
+    margin: 0px;
+}
+h2{
+    font-size: 2rem;
+    margin-left:50px;
+    margin-right:50px;
+    
+}
+h3{
+    font-size: 1.5rem;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom: 0px;
+}
+hr{
+    margin-left:50px;
+    margin-right:50px;
+}
+.right{
+    text-align: right;
+    display: inline-flexbox;
+    margin-left: 1277px;
+    font-weight: normal;
+}
+.ContactLinks{
+    margin-top: 0px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-top: 0px;
+}
+.quote{
+    line-height: 150%;
+    font-family: Georgia, serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 22px;
+    text-align: center;
+}
+.listitem{
+    margin-left:50px;
+    font-size: 20px;
+}
+.skills{
+    font-weight: normal;
+    font-size: 20px;
+}
